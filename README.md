@@ -1,6 +1,6 @@
-[![Demo](https://img.shields.io/badge/DEMO-Live-green?style=for-the-badge&logo=vercel)](https://react-movie-search-pink.vercel.app/)
-
 # 🎬 REACT Movie Search
+
+[![Demo](https://img.shields.io/badge/DEMO-Live-green?style=for-the-badge&logo=vercel)](https://react-movie-search-pink.vercel.app/)
 
 This project is a **showcase** of my learning as I followed along with the excellent [React Movie Search tutorial by Adrian Hajdin](https://github.com/adrianhajdin/react-movies).  
 All credit for the original concept and much of the implementation goes to [Adrian Hajdin](https://github.com/adrianhajdin).
