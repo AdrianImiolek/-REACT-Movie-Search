@@ -1,12 +1,55 @@
-# React + Vite
+[![Demo](https://img.shields.io/badge/DEMO-Live-green?style=for-the-badge&logo=vercel)](https://react-movie-search-pink.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎬 REACT Movie Search
 
-Currently, two official plugins are available:
+This project is a **showcase** of my learning as I followed along with the excellent [React Movie Search tutorial by Adrian Hajdin](https://github.com/adrianhajdin/react-movies).  
+All credit for the original concept and much of the implementation goes to [Adrian Hajdin](https://github.com/adrianhajdin).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Search movies by title
+- View movie details (poster, year, summary)
+- Responsive UI
+- Data fetched from a movie API
+
+---
+
+## 📚 About This Project
+
+This repository is **not** an original work, but a personal exercise to deepen my React skills by rebuilding a project step-by-step from [this tutorial](https://github.com/adrianhajdin/react-movies).  
+If you want to see the original, more advanced, or maintained version, please visit:  
+➡️ [adrianhajdin/react-movies](https://github.com/adrianhajdin/react-movies)
+
+---
+
+## 🛠️ Getting Started
+
+```bash
+git clone https://github.com/AdrianImiolek/-REACT-Movie-Search.git
+cd -REACT-Movie-Search
+npm install
+npm start
+```
+
+You may need an API key (see [original tutorial instructions](https://github.com/adrianhajdin/react-movies) for setup).
+
+---
+
+## 🙏 Credits
+
+- Original tutorial and codebase: [Adrian Hajdin / JavaScript Mastery](https://github.com/adrianhajdin)
+- This repo: Showcase and learning by [AdrianImiolek](https://github.com/AdrianImiolek)
+
+---
+
+## 📄 License
+
+Please see the [original repository's license](https://github.com/adrianhajdin/react-movies/blob/main/LICENSE) for usage rights.
+
+---
+
+## ✨ Note
+
+This repository is for educational and showcase purposes only.
